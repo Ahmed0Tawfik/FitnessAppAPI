@@ -7,9 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Models\**" />
-    <EmbeddedResource Remove="Models\**" />
-    <None Remove="Models\**" />
+    <Folder Include="Models\Program\" />
+    <Folder Include="Models\Payment\" />
+    <Folder Include="Models\Subscription\" />
+    <Folder Include="Models\Profile\" />
   </ItemGroup>
 
 </Project>

@@ -10,4 +10,8 @@
     <PackageReference Include="FluentValidation" Version="11.11.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fitness.DataAccess\Fitness.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
