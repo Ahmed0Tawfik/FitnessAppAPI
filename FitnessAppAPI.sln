@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourProjectName.API", "Fitness.API\YourProjectName.API.csproj", "{E86F0D79-2945-40BA-9E40-64A8EB74FA6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.API", "Fitness.API\Fitness.API.csproj", "{E86F0D79-2945-40BA-9E40-64A8EB74FA6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourProjectName.Infrastructure", "Fitness.DataAccess\YourProjectName.Infrastructure.csproj", "{FAC877AC-E7A8-422C-BBAB-2175F816D1DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Infrastructure", "Fitness.DataAccess\Fitness.Infrastructure.csproj", "{FAC877AC-E7A8-422C-BBAB-2175F816D1DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourProjectName.Domain", "Fitness.Domain\YourProjectName.Domain.csproj", "{57242B5F-7160-48AB-9BC0-30567544E0CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Domain", "Fitness.Domain\Fitness.Domain.csproj", "{57242B5F-7160-48AB-9BC0-30567544E0CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourProjectName.Application", "Fitness.Application\YourProjectName.Application.csproj", "{BC1F74C9-E759-4E90-A0DA-3B7AC261DDCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Application", "Fitness.Application\Fitness.Application.csproj", "{BC1F74C9-E759-4E90-A0DA-3B7AC261DDCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
